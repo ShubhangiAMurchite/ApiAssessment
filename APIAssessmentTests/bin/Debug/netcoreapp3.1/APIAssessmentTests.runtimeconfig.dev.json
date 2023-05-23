@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\prajakta.murchite\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\prajakta.murchite\\.nuget\\packages"
+    ]
+  }
+}
